@@ -1,0 +1,3 @@
+[run]
+source = test10
+omit = test10/test*
