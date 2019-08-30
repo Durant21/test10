@@ -6,7 +6,7 @@ Getting Started
 
 - cd <directory containing this file>
 
-- $VENV/bin/pip install -e .
+- $VENV1/bin/pip install -e .
 
-- $VENV/bin/pserve development.ini
+- $VENV1/bin/pserve development.ini
 
